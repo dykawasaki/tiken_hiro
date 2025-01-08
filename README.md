@@ -1,6 +1,6 @@
-!(https://github.com/dfilitto/Construct3FaroesteZumbi/blob/main/CONSTRUCT%203%20Construindo%20um%20jogo%20do%20zero.jpg?raw=true)
+![](https://github.com/dykawasaki/tiken_hiro/blob/main/ui_hud_jogo.png)
  
-# Faroeste Zumbi
+# Tiken Hiro
  
 Aprenda a criar o jogo Faroeste Zumbi. Neste jogo o jogador tem como objetivo eliminar todos os zumbis com seus disparos certeiros evitando ser atingido pelos zumbis. Com o passar do tempo os zumbis ficam mais espertos e mais rápidos, fazendo com que os mesmos consigam reaparecer mais rápido no jogo.
  
